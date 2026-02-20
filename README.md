@@ -11,7 +11,7 @@
 **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 **C/C++:** Qt, QWidgets  
 **Frontend:** HTML, CSS, JavaScript  
-**Backend:** Django, REST API  
+**Backend:**  REST API  
 **Базы данных:** MySQL  
 **UI/UX:** Figma  
 **Version Control:** Git, GitLab  

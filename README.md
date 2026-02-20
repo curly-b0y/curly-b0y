@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Адриан
 
-<!--
-**curly-b0y/curly-b0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент 2 курса МГТУ им. Н.Э. Баумана  
+💻 Направление: Прикладная информатика и информационная аналитика  
+🚀 Интересуюсь: Data, ML, Frontend, UI/UX  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 О себе
+
+Интересуюсь разработкой программных решений, анализом данных, а также frontend-разработкой и UI/UX-дизайном. 
+
+---
+
+## 🛠 Технический стек
+
+**Python:** Pandas, NumPy, Matplotlib, Seaborn  
+**C/C++:** Qt, QWidgets  
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** Django, REST API  
+**Базы данных:** MySQL  
+**UI/UX:** Figma  
+**Version Control:** Git, GitLab  
+
+---
+
+## 📫 Контакты
+
+Email: adr07todorov@gmail.com  
+Telegram: @curly_b0y 

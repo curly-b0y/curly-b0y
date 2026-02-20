@@ -1,6 +1,7 @@
 ## **whatsup!**
 
-19 yo | BMSTU Student | Applied Computer Science /n
+19 yo | BMSTU Student | Applied Computer Science
+
 Интересуюсь разработкой программных решений, анализом данных, а также frontend-разработкой и UI/UX-дизайном. 
 
 ---

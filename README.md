@@ -23,6 +23,6 @@
 Email: adr07todorov@gmail.com  
 Telegram: @curly_b0y 
 
-## 📈 GitHub Stats
+## 🛠 Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true)
+![My Skills](https://skillicons.dev/icons?i=python,cpp,js,django,mysql,git,figma)

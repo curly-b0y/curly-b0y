@@ -23,4 +23,4 @@
 Email: adr07todorov@gmail.com  
 Telegram: @curly_b0y 
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,js,django,mysql,git,figma)
+![My Skills](https://skillicons.dev/icons?i=python,cpp,js,mysql,git,figma)

@@ -1,11 +1,11 @@
-# whatsup!
+## **whatsup!**
 
-**19 yo | BMSTU Student | Applied Computer Science
-**Интересуюсь разработкой программных решений, анализом данных, а также frontend-разработкой и UI/UX-дизайном. 
+19 yo | BMSTU Student | Applied Computer Science
+Интересуюсь разработкой программных решений, анализом данных, а также frontend-разработкой и UI/UX-дизайном. 
 
 ---
 
-## stack
+## **stack**
 
 **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 **C/C++:** Qt, QWidgets  
@@ -17,7 +17,7 @@
 
 ---
 
-## find me
+## **find me**
 
 Email: adr07todorov@gmail.com  
 Telegram: @curly_b0y 
